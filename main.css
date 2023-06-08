@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: white;
+    }
+  }
+
+  
+
+  img {
+    width: 100%;
+    
+    object-fit: cover;
+    object-position: bottom;
+  }
